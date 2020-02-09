@@ -65,3 +65,11 @@ Now you can turn heating of your Raspberry Pi on and off using mqtt commands or 
 ![Relay](https://github.com/hdiessner/Allskycam-heating/blob/master/Relay.jpg "Relay")
 
 ![Relay and Resistors](https://github.com/hdiessner/Allskycam-heating/blob/master/Relay_Resistors.jpg "Relay and Resistors")
+
+### Comparison before and after:
+On Youtube, you can see the effect of this heating.
+The first video is a timelapse of the night from February 6th-7th, 2020 with no heating:
+https://youtu.be/Hbvj66kT7Wo 
+
+In the second video, the heating is turned on during the next night (Feb 7th-8th, 2020), both nights had similar conditions with temperatures below 0°C (minimum: -5°C).
+https://youtu.be/YsjeaSNKSf8 
