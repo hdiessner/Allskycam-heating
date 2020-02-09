@@ -38,8 +38,9 @@ sudo pip install paho-mqtt
 Adapt allskyheating.py script to your environment.
 
 ```
-MQTT Server --> enter your MQTT Server address
-MQTT topics --> define the topics, e.g. /sternwarte/allskyheating
+MQTT Server --> enter your MQTT Server address (line 49)
+MQTT topics --> define the topics (lines 23, 29), e.g. /sternwarte/allskyheating/#
+MQTT payloads --> define payload (lines 31, 38), e.g. "on" "off"
 ```
 
 Copy allskyheating.py to /home/pi on your Raspberry Pi.
