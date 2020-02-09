@@ -58,3 +58,10 @@ Now you can turn heating of your Raspberry Pi on and off using mqtt commands or 
 ### Example:
 - Topic: /sternwarte/allskyheating
 - Payload: on / off
+
+### Pictures:
+![Raspberry Pi](https://github.com/hdiessner/Allskycam-heating/blob/master/Raspi.jpg "Raspberry Pi")
+
+![Relay](https://github.com/hdiessner/Allskycam-heating/blob/master/Relay.jpg "Relay")
+
+![Relay and Resistors](https://github.com/hdiessner/Allskycam-heating/blob/master/Relay_Resistors.jpg "Relay and Resistors")
