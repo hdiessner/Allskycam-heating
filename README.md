@@ -19,12 +19,12 @@ Bill of Materials
 For assembly, simply solder the resistors in parallel onto the breadboard.
 Connect the breadboard and the 5v relay to the GPIO pins:
 ```
-GPIO2 (5V) ----- Relay VCC
-GPIO4 (5V) ----- Relay NO
-GPIO6 (GND) ---- Relay GND
-GPIO9 (GND) ---- breadboard -
-GPIO11 --------- Relay  IN
-Relay COM ------ breadboard +
+PIN 2 (5V) ------ Relay VCC
+PIN 4 (5V) ------ Relay NO
+PIN 6 (GND) ----- Relay GND
+PIN 9 (GND) ----- breadboard -
+PIN 11 (GPIO17)-- Relay IN
+Relay COM ------- breadboard +
 ```
 
 ## Software Installation on your Raspberry Pi
