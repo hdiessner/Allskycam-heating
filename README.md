@@ -7,7 +7,7 @@ The purpose of this repository is to provide a cheap and simple way to heat any 
 - low power consumption, e.g. when the Raspberry is powered via PoE
 - as few parts as possible, e.g. no extra piHATs or similar
 - coming with the point above, as low cost as possible, only a 5v relay and some resistors needed
-- integration in a smart home / IoT environment using MQTT
+- integration into smart home / IoT environment using MQTT
 
 ## Hardware Installation
 
