@@ -27,6 +27,12 @@ PIN 11 (GPIO17)-- Relay IN
 Relay COM ------- breadboard +
 ```
 
+For more clarity, some schematics of the wiring:
+![Raspberry Pi](https://github.com/hdiessner/Allskycam-heating/blob/master/RelaisWiring.png "Wiring of Relais")
+
+Cable-saving version of wiring, with only one 5V wire running from Raspberry to Relais Board (daisy-chaining the 5V wire from "Relay NO" to "Relay VCC"):
+![Raspberry Pi](https://github.com/hdiessner/Allskycam-heating/blob/master/RelaisWiringCableSave.png "Wiring of Relais with one cable for 5V from Raspberry to Relay board")
+
 ## Software Installation on your Raspberry Pi
 
 ```sh
